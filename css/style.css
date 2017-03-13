@@ -1,0 +1,29 @@
+body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 1em;
+	color: #777777;
+	background-image: url("../images/seigaiha.png");
+}
+
+body h1 {
+	font-size: 2.3em;
+	font-weight: bolder;
+}
+
+body h2 {
+	font-size: 2em;
+	font-weight: bold; 
+}
+
+body h3 {
+	font-size: 1.3em;
+	font-weight: 500;
+}
+
+#portfolio li, p {
+	font-size: 2em;
+}
+
+#mainNav a {
+	font-size: 1.5em;
+}
